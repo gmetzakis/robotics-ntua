@@ -1,7 +1,3 @@
-# Συνεργάτες  
-**Antoniou Konstantinos: https://github.com/KonstantinosAntoniou**  
-  
-# Αρχεία
 Όλο το πακέτο robo2_redundant, εκτός από τα αρχεία που καλούμαστε να επεξεργαστούμε, 
 τα controller.py και kinematics.py, έχει δημιουργηθεί από τον υπεύθυνο του εργαστηρίου **Παρασκευά Οικονόμου**.   
 
