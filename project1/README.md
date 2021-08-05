@@ -1,8 +1,10 @@
-# Συνεργάτες
-Antoniou Konstantinos:
+# Συνεργάτες  
+**Antoniou Konstantinos: https://github.com/KonstantinosAntoniou**  
 
-Στο πακέτο robo2_redundant, τα μόνα αρχεία που επεξεργαστήκαμε είναι τα controller.py και kinematics.py,
-ενώ επίσης έχουμε προσθέσει μέσα στον φάκελο 'scripts' το jupyter notebook αρχείο 'robo.ipynb' 
+Όλο το πακέτο robo2_redundant, εκτός από τα αρχεία που καλούμαστε να επεξεργαστούμε, 
+τα controller.py και kinematics.py, έχει δημιουργηθεί από τον υπεύθυνο του εργαστηρίου **Παρασκευά Οικονόμου**.   
+
+Πέρα από αυτά, έχουμε προσθέσει μέσα στον φάκελο 'scripts' το jupyter notebook αρχείο 'robo.ipynb' 
 όπου κάνουμε τους υπολογισμούς της Ιακωβιανής και των 'ξ' των κρίσιμων σημείων (τις πράξεις...).
 
 Τέλος, στο αρχείο 'redundant.launch' έχουμε θέσει τη μεταβλητή rate=1000.
