@@ -1,4 +1,5 @@
-
+# Συνεργάτες
+Antoniou Konstantinos:
 
 Στο πακέτο robo2_redundant, τα μόνα αρχεία που επεξεργαστήκαμε είναι τα controller.py και kinematics.py,
 ενώ επίσης έχουμε προσθέσει μέσα στον φάκελο 'scripts' το jupyter notebook αρχείο 'robo.ipynb' 
